@@ -13,8 +13,8 @@ Pod::Spec.new do |s|
                         "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/SWGauge_example.gif",
                         "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/ib_example_1.gif"]
   s.license          = 'MIT'
-  s.author           = { "Petr Korolev" => "sky4winder@gmail.com" }
-  s.source           = { :git => "https://github.com/skywinder/GaugeKit.git", :tag => s.version.to_s }
+  s.author           = { "Miroslav Perovic" => "miroslav.perovic@gmail.com" }
+  s.source           = { :git => "https://github.com/mperovic/GaugeKit.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/skywinder'
 
   s.ios.deployment_target = '9.0'
